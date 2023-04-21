@@ -8,7 +8,7 @@ export interface NewsArticles {
     content: string,
 }
 
-
 export interface NewsResponse {
     articles: NewsArticles[],
+    
 }
